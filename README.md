@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at Potts.Robert.C@gmail.com
-- 📫 or at <linkedin.com/in/robert-bob-potts-98106a33/>  
+- 📫 or at http://linkedin.com/in/robert-bob-potts-98106a33  
 
 
 <!---
