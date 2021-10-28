@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="1000px"
+   height="1000px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg457"
+   sodipodi:docname="OhmsLawPieChart1.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs461" /><sodipodi:namedview
+   id="namedview459"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.629"
+   inkscape:cx="500"
+   inkscape:cy="500"
+   inkscape:window-width="1600"
+   inkscape:window-height="837"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg457" />
+<g
+   id="Layer_3"
+   transform="matrix(0.73033484,0,0,0.73012571,13.601964,11.857028)">
+	<path
+   fill="#fcf9d5"
+   d="m 503.253,46.032 c 249.178,0 450.81,201.631 450.81,450.809 l -450.656,-0.408 z"
+   id="path236" />
+	<path
+   fill="#d1cee5"
+   d="m 503.253,946.834 c 249.178,0 450.81,-201.632 450.81,-450.809 l -450.656,0.408 z"
+   id="path238" />
+	<path
+   fill="#fbcdcf"
+   d="m 503.562,46.03 c -249.178,0 -450.81,201.631 -450.81,450.808 l 450.656,-0.408 z"
+   id="path240" />
+	<path
+   fill="#a4d395"
+   d="m 503.565,946.834 c -249.178,0 -450.81,-201.632 -450.81,-450.809 l 450.656,0.408 z"
+   id="path242" />
+</g>
+<g
+   id="Layer_2"
+   transform="matrix(0.73033484,0,0,0.73012571,13.601964,11.857028)">
+	<path
+   fill="#fdcda2"
+   d="m 503.175,496.825 10e-4,-213.396 c 117.951,0 213.396,95.444 213.396,213.396 z"
+   id="path245" />
+	<path
+   fill="#bd9ac8"
+   d="m 503.175,496.824 -0.001,-213.396 c -117.951,0 -213.396,95.444 -213.396,213.396 z"
+   id="path247" />
+	<path
+   fill="#9ccbed"
+   d="m 503.175,496.824 10e-4,213.396 c 117.951,0 213.396,-95.444 213.396,-213.396 z"
+   id="path249" />
+	<path
+   fill="#2e9964"
+   d="m 503.175,496.824 -0.001,213.396 c -117.951,0 -213.396,-95.444 -213.396,-213.396 z"
+   id="path251" />
+</g>
+<g
+   id="Layer_1"
+   transform="matrix(0.73033484,0,0,0.73012571,13.601964,11.857028)">
+	<circle
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   cx="503.17499"
+   cy="496.82501"
+   r="450.80899"
+   id="circle254" />
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="606.83301"
+   y1="310.5"
+   x2="721.24701"
+   y2="102.062"
+   id="line256" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="682.77502"
+   y1="381.53101"
+   x2="882.586"
+   y2="253.263"
+   id="line258" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="690.30902"
+   y1="599.54401"
+   x2="898.42902"
+   y2="713.78302"
+   id="line260" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="618.49103"
+   y1="676.45801"
+   x2="746.737"
+   y2="876.23401"
+   id="line262" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="400.45599"
+   y1="683.95599"
+   x2="286.216"
+   y2="892.078"
+   id="line264" />
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="323.54001"
+   y1="612.14099"
+   x2="123.765"
+   y2="740.38599"
+   id="line266" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="316.07501"
+   y1="394.12299"
+   x2="107.922"
+   y2="279.866"
+   id="line268" />
+	
+		<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="387.858"
+   y1="317.18799"
+   x2="259.61401"
+   y2="117.415"
+   id="line270" />
+	<circle
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   cx="503.17499"
+   cy="496.82401"
+   r="213.396"
+   id="circle272" />
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="52.366001"
+   y1="496.82501"
+   x2="953.98401"
+   y2="496.82501"
+   id="line274" />
+	<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   x1="503.17499"
+   y1="46.015999"
+   x2="503.17499"
+   y2="947.633"
+   id="line276" />
+</g>
+<g
+   id="Layer_5"
+   transform="matrix(0.73033484,0,0,0.73012571,13.601964,11.857028)">
+	<text
+   transform="translate(538.5,355.5)"
+   font-family="TimesNewRomanPSMT"
+   font-size="36px"
+   id="text279">Volts</text>
+	<text
+   transform="translate(387.8584,355.5)"
+   font-family="TimesNewRomanPSMT"
+   font-size="36px"
+   id="text281">Amps</text>
+	<text
+   transform="translate(387.8584,560.79)"
+   font-family="TimesNewRomanPSMT"
+   font-size="36px"
+   id="text283">Power</text>
+	<text
+   transform="translate(538.5,556)"
+   font-family="TimesNewRomanPSMT"
+   font-size="36px"
+   id="text285">Ohms(Ω)</text>
+	<text
+   transform="translate(565.7344,438.5)"
+   font-family="TimesNewRomanPS-BoldMT"
+   font-size="72px"
+   id="text287">E</text>
+	<text
+   transform="translate(565.7344,627.1406)"
+   font-family="TimesNewRomanPS-BoldMT"
+   font-size="72px"
+   id="text289">R</text>
+	<text
+   transform="translate(402.3584,632.3926)"
+   font-family="TimesNewRomanPS-BoldMT"
+   font-size="72px"
+   id="text291">P</text>
+	<text
+   transform="translate(402.3584,438.5)"
+   font-family="TimesNewRomanPS-BoldMT"
+   font-size="72px"
+   id="text293">I</text>
+</g>
+<g
+   id="Layer_4"
+   transform="matrix(0.73033484,0,0,0.73012571,13.601964,11.857028)">
+	<g
+   id="g310">
+		
+			<text
+   transform="translate(509.8467,139.6763)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="40.6533px"
+   id="text296">E</text>
+		<text
+   transform="translate(538.3955,139.6763)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="40.6533px"
+   id="text298">=</text>
+		<polygon
+   fill="#010101"
+   points="578.375,119.236 584.488,137.725 593.508,92.861 594.468,92.853 584.594,142.051 583.712,142.051 577.021,122.103 574.173,124.672 573.694,123.447 "
+   id="polygon300" />
+		<rect
+   x="594.47198"
+   y="92.778"
+   fill="#010101"
+   width="95.836998"
+   height="1.699"
+   id="rect302" />
+		
+			<text
+   transform="translate(599.9092,139.6763)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="40.6533px"
+   id="text304">P</text>
+		<polygon
+   fill="#010101"
+   points="644.254,126.535 654.654,116.174 656.005,117.563 645.645,127.926 656.005,138.287 654.654,139.676 644.254,129.315 633.932,139.676 632.501,138.287 642.862,127.926 632.501,117.563 633.932,116.174 "
+   id="polygon306" />
+		
+			<text
+   transform="translate(664.4775,139.6743)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="40.6533px"
+   id="text308">R</text>
+	</g>
+	<g
+   id="g322">
+		
+			<text
+   transform="translate(667.6562,254.748)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.3223px"
+   id="text312">E</text>
+		<text
+   transform="translate(702.9922,254.748)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="50.3223px"
+   id="text314">=</text>
+		
+			<text
+   transform="translate(758.1035,225.7168)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.3223px"
+   id="text316">P</text>
+		<rect
+   x="746.75"
+   y="239.18401"
+   fill="#010101"
+   width="42.909"
+   height="2.9460001"
+   id="rect318" />
+		
+			<text
+   transform="translate(758.1035,298.0762)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.3223px"
+   id="text320">I</text>
+	</g>
+	<g
+   id="g334">
+		
+			<text
+   transform="translate(725.8672,420.0771)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.1724px"
+   id="text324">E</text>
+		<text
+   transform="translate(763.6504,420.0771)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="53.1724px"
+   id="text326">=</text>
+		
+			<text
+   transform="translate(811.6562,420.0771)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.1724px"
+   id="text328">I</text>
+		<polygon
+   fill="#010101"
+   points="858.553,402.891 872.158,389.337 873.924,391.154 860.372,404.708 873.924,418.261 872.158,420.078 858.553,406.525 845.054,420.078 843.183,418.261 856.735,404.708 843.183,391.154 845.054,389.337 "
+   id="polygon330" />
+		
+			<text
+   transform="translate(885.0059,420.0791)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.1724px"
+   id="text332">R</text>
+	</g>
+	<g
+   id="g346">
+		
+			<text
+   transform="translate(775.9795,589.3447)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="49.5093px"
+   id="text336">R</text>
+		<text
+   transform="translate(808.6758,589.3447)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="49.5093px"
+   id="text338">=</text>
+		<text
+   transform="translate(862.8955,560.79)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="49.5093px"
+   id="text340">E</text>
+		<rect
+   x="851.30298"
+   y="574.034"
+   fill="#010101"
+   width="43.044998"
+   height="2.8959999"
+   id="rect342" />
+		
+			<text
+   transform="translate(862.8955,632.3926)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="49.5093px"
+   id="text344">I</text>
+	</g>
+	<g
+   id="g360">
+		
+			<text
+   transform="translate(688.0371,735.1104)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="42.8156px"
+   id="text348">R</text>
+		<text
+   transform="translate(716.3145,735.1104)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="42.8156px"
+   id="text350">=</text>
+		
+			<text
+   transform="translate(763.2041,710.4111)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="42.8156px"
+   id="text352">E</text>
+		<text
+   transform="translate(791.8379,688.9365)"
+   fill="#010101"
+   font-family="DejaVuSans"
+   font-size="25.6691px"
+   id="text354">2</text>
+		<rect
+   x="753.539"
+   y="721.86499"
+   fill="#010101"
+   width="51.897999"
+   height="2.507"
+   id="rect356" />
+		
+			<text
+   transform="translate(763.2031,772.333)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="42.8156px"
+   id="text358">P</text>
+	</g>
+	<g
+   id="g374">
+		
+			<text
+   transform="translate(534.1426,812.4785)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="47.8311px"
+   id="text362">R</text>
+		<text
+   transform="translate(565.7344,812.4785)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="47.8311px"
+   id="text364">=</text>
+		
+			<text
+   transform="translate(624.5078,784.8857)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="47.8311px"
+   id="text366">P</text>
+		<rect
+   x="607.31201"
+   y="797.68298"
+   fill="#010101"
+   width="47.583"
+   height="2.8010001"
+   id="rect368" />
+		
+			<text
+   transform="translate(618.5127,854.0645)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="47.8311px"
+   id="text370">I</text>
+		<text
+   transform="translate(639.7061,830.0723)"
+   fill="#010101"
+   font-family="DejaVuSans"
+   font-size="28.676px"
+   id="text372">2</text>
+	</g>
+	<g
+   id="g390">
+		
+			<text
+   transform="translate(325.5762,180.3594)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.7139px"
+   id="text376">I</text>
+		<text
+   transform="translate(351.6191,180.3594)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="53.7139px"
+   id="text378">=</text>
+		<polygon
+   fill="#010101"
+   points="404.89,160.596 412.958,216.995 424.864,80.144 426.127,80.12 413.099,230.188 411.932,230.188 403.101,169.342 399.343,177.179 398.712,173.442 "
+   id="polygon380" />
+		<rect
+   x="425.715"
+   y="79.779999"
+   fill="#010101"
+   width="53.883999"
+   height="2.2449999"
+   id="rect382" />
+		
+			<text
+   transform="translate(444.5703,149.377)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.7139px"
+   id="text384">P</text>
+		<rect
+   x="432.45001"
+   y="163.75"
+   fill="#010101"
+   width="45.801998"
+   height="3.142"
+   id="rect386" />
+		
+			<text
+   transform="translate(436.9365,227.0625)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="53.7139px"
+   id="text388">R</text>
+	</g>
+	<g
+   id="g402">
+		
+			<text
+   transform="translate(188.9248,263.5337)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="52.6874px"
+   id="text392">I</text>
+		<text
+   transform="translate(214.4678,263.5337)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="52.6874px"
+   id="text394">=</text>
+		
+			<text
+   transform="translate(272.6104,233.144)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="52.6874px"
+   id="text396">P</text>
+		<rect
+   x="259.836"
+   y="247.23599"
+   fill="#010101"
+   width="45.808998"
+   height="3.082"
+   id="rect398" />
+		
+			<text
+   transform="translate(272.1699,309.3384)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="52.6874px"
+   id="text400">E</text>
+	</g>
+	<g
+   id="g414">
+		
+			<text
+   transform="translate(107.8252,414.751)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.2805px"
+   id="text404">I</text>
+		<text
+   transform="translate(132.2041,414.751)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="50.2805px"
+   id="text406">=</text>
+		
+			<text
+   transform="translate(187.2676,385.748)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.2805px"
+   id="text408">E</text>
+		<rect
+   x="175.49899"
+   y="399.19901"
+   fill="#010101"
+   width="43.715"
+   height="2.9430001"
+   id="rect410" />
+		
+			<text
+   transform="translate(189.7881,458.4639)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="50.2805px"
+   id="text412">R</text>
+	</g>
+	<g
+   id="g426">
+		<text
+   transform="translate(81.2695,595.6504)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="58.685px"
+   id="text416">P</text>
+		<text
+   transform="translate(121.9893,595.6504)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="58.685px"
+   id="text418">=</text>
+		
+			<text
+   transform="translate(174.9717,595.6504)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="58.685px"
+   id="text420">E</text>
+		<polygon
+   fill="#010101"
+   points="239.479,576.682 254.494,561.724 256.443,563.727 241.487,578.688 256.443,593.645 254.494,595.647 239.479,580.69 224.58,595.647 222.515,593.645 237.477,578.688 222.515,563.727 224.58,561.724 "
+   id="polygon422" />
+		
+			<text
+   transform="translate(269.1631,595.6455)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="58.685px"
+   id="text424">I</text>
+	</g>
+	<g
+   id="g440">
+		
+			<text
+   transform="translate(203.1196,749.4219)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="37.4562px"
+   id="text428">P</text>
+		<text
+   transform="translate(229.1079,749.4219)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="37.4562px"
+   id="text430">=</text>
+		
+			<text
+   transform="translate(262.9243,749.4219)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="37.4562px"
+   id="text432">I</text>
+		<text
+   transform="translate(279.522,730.6348)"
+   fill="#010101"
+   font-family="DejaVuSans"
+   font-size="22.456px"
+   id="text434">2</text>
+		<polygon
+   fill="#010101"
+   points="308.485,737.314 318.069,727.769 319.313,729.05 309.767,738.596 319.313,748.143 318.069,749.424 308.485,739.877 298.976,749.424 297.658,748.143 307.208,738.596 297.658,729.05 298.976,727.769 "
+   id="polygon436" />
+		
+			<text
+   transform="translate(327.436,749.4258)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="37.4562px"
+   id="text438">R</text>
+	</g>
+	<g
+   id="g454">
+		
+			<text
+   transform="translate(356.5122,829.6992)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="45.5206px"
+   id="text442">P</text>
+		<text
+   transform="translate(388.0952,829.6992)"
+   fill="#010101"
+   font-family="OpenSymbol"
+   font-size="45.5206px"
+   id="text444">=</text>
+		
+			<text
+   transform="translate(437.9487,803.4424)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="45.5206px"
+   id="text446">E</text>
+		<text
+   transform="translate(468.3911,780.6104)"
+   fill="#010101"
+   font-family="DejaVuSans"
+   font-size="27.2908px"
+   id="text448">2</text>
+		<rect
+   x="427.67099"
+   y="815.62097"
+   fill="#010101"
+   width="54.799"
+   height="2.664"
+   id="rect450" />
+		
+			<text
+   transform="translate(455.8345,869.2764)"
+   fill="#010101"
+   font-family="TimesNewRomanPS-ItalicMT"
+   font-size="45.5206px"
+   id="text452">R</text>
+	</g>
+</g>
+</svg>
