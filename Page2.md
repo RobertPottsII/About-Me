@@ -1,6 +1,8 @@
-*This is Page 2*
+## This is Page 2
 
 [Return to Page 1](https://github.com/RobertPottsII/About-Me/wiki/Thinking-Outside-the-Binder)
+
+### [Link to the GitHub Markdown Language Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [My PDF Absolute Path](https://github.com/RobertPottsII/About-Me/blob/main/Sample_1.pdf)
 
